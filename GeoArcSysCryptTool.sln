@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoArcSysCryptTool", "GeoArcSysCryptTool\GeoArcSysCryptTool.csproj", "{B0393283-87D1-49A8-9114-5F76BAEB1A2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcSysAPI", "lib\ArcSysAPI\ArcSysAPI\ArcSysAPI.csproj", "{78146821-FBC1-43AF-B515-BE2822CBBCBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B0393283-87D1-49A8-9114-5F76BAEB1A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0393283-87D1-49A8-9114-5F76BAEB1A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0393283-87D1-49A8-9114-5F76BAEB1A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78146821-FBC1-43AF-B515-BE2822CBBCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78146821-FBC1-43AF-B515-BE2822CBBCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78146821-FBC1-43AF-B515-BE2822CBBCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78146821-FBC1-43AF-B515-BE2822CBBCBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

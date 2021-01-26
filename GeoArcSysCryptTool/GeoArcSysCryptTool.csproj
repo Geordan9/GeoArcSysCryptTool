@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\lib\ArcSysAPI\ArcSysAPI\ArcSysAPI.csproj">
+      <Project>{78146821-fbc1-43af-b515-be2822cbbcbb}</Project>
+      <Name>ArcSysAPI</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
